@@ -1,0 +1,64 @@
+Python 3.5.3 (default, Jan 19 2017, 14:11:04)
+Type "copyright", "credits" or "license" for more information.
+
+IPython 5.1.0 -- An enhanced Interactive Python.
+?         -> Introduction and overview of IPython's features.
+%quickref -> Quick reference.
+help      -> Python's own help system.
+object?   -> Details about 'object', use 'object??' for extra details.
+
+runfile('/home/maxmanus/enviroments/real/svmtest.py', wdir='/home/maxmanus/enviroments/real')
+Support vector count: 48
+bias:           -107.850
+w:              [-91.21692344  41.22062301  33.58812917 -78.65916327]
+accuracy:       0.281
+Converged after 288 iterations
+
+runfile('/home/maxmanus/enviroments/real/svmtest.py', wdir='/home/maxmanus/enviroments/real')
+Reloaded modules: SVM
+
+Support vector count: 57
+bias:           172.416
+w:              [-92.12939719 -16.76226827  54.88127834 -46.51637201]
+accuracy:       0.325
+Converged after 188 iterations
+Reloaded modules: SVM
+
+Support vector count: 61
+bias:           148.400
+w:              [-83.11531991 -21.6931371   53.91954915 -64.38642046]
+accuracy:       0.365
+Converged after 312 iterations
+Reloaded modules: SVM
+
+runfile('/home/maxmanus/enviroments/real/svmtest.py', wdir='/home/maxmanus/enviroments/real')
+Support vector count: 72
+bias:           256.687
+w:              [-104.47521253  -59.15687115  101.26101719  -77.06395328]
+accuracy:       0.321
+Converged after 454 iterations
+
+
+Reloaded modules: SVM
+
+runfile('/home/maxmanus/enviroments/real/svmtest.py', wdir='/home/maxmanus/enviroments/real')
+Support vector count: 54
+bias:           331.451
+w:              [-105.44961105  -75.33769682  127.1269668   -62.78594918]
+accuracy:       0.343
+Converged after 331 iterations
+Reloaded modules: SVM
+
+runfile('/home/maxmanus/enviroments/real/svmtest.py', wdir='/home/maxmanus/enviroments/real')
+Support vector count: 51
+bias:           21.510
+w:              [-71.52059747  10.93400815  32.46628295 -47.16082408]
+accuracy:       0.343
+Converged after 232 iterations
+
+Reloaded modules: SVM
+Support vector count: 53
+bias:           63.071
+w:              [-74.57033459  -2.1035081   37.75164487 -72.66697122]
+accuracy:       0.365
+Converged after 317 iterations
